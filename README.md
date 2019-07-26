@@ -3,9 +3,9 @@ MacOs 10.14.4 Mojave-Dell Inspiron 15-5000 5567 Config
 
 What is Working:
 
-Trackpad with gestures (Some not working, using Three Finger gestures)
-Keyboard Backlight
-HDMI
+- Trackpad with gestures (Some not working, using Three Finger gestures)
+- Keyboard Backlight
+- HDMI
 Integrated GPU
 Internal Audio
 Internal Microphone
