@@ -27,6 +27,11 @@ What is not working
 - Bluetooth (Haven't tried it yet but doubt it work)
 - Card Reader (Same as bluetooth, never tried it but probably doesn't work)
 
+Known bugs
+
+- After Sleep already connected headphones needs to be unplugged and plugged again
+- After Sleep microphone will stop working
+
 
 MacOs version installed: Installed via Usb using 10.14.4 vanilla
 
