@@ -32,6 +32,7 @@ Known bugs
 - After Sleep already connected headphones needs to be unplugged and plugged again
 - After Sleep microphone will stop working
 - Function keys not working properly, some function keys like f5 won't do anything, used Karabiner to re-map but can't get to work some keys
+- Bootcamp or Unetbootin can't recognize any Usb
 
 
 MacOs version installed: Installed via Usb using 10.14.4 vanilla
@@ -45,6 +46,7 @@ Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist
 To do:
 
 - Fix inversed function keys and get all F1-F12 keys to work (Probably related to VoodooPs2Controller)
+- Fix Unetbootin-Bootcamp usb recognition
 - Delete unnecessary configurations on config.plist
 - Update Kexts
 - Update Clover
