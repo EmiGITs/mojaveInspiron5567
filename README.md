@@ -6,10 +6,12 @@ What is Working:
 - Trackpad with gestures (Some not working, using Three Finger gestures)
 - Keyboard Backlight
 - HDMI
+- External Audio
 - Integrated GPU
 - Internal Audio
 - Internal Microphone
-- External Audio
+- Camera
+
 - Native Power Management
 - Battery Status
 - All 3 Usb's
