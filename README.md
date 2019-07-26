@@ -11,7 +11,7 @@ What is Working:
 - Internal Audio
 - Internal Microphone
 - Camera
-
+- Headphones Jack
 - Native Power Management
 - Battery Status
 - All 3 Usb's
