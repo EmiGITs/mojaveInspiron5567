@@ -35,7 +35,9 @@ Known bugs
 - ~~Bootcamp or Unetbootin can't recognize any Usb.~~ balenaEtcher seems to work
 
 
-MacOs version installed: Installed via Usb using 10.14.4 vanilla
+MacOs version installed: Installed via Usb using 10.14.4 vanilla, updated to 10.14.6 after a few weeks
+
+I don't suggest using neither Clover folder or Kexts directly, use them as a reference and set your configuration up following existent guides. In any case if you want to boot from usb and install then you need to move Library Extension kexts to your USB/Clover/Kexts/Other.
 
 Bootloader: 
 - ~~Clover 4979~~ Updated on Commit 124a8b5
