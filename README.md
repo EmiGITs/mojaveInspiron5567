@@ -41,6 +41,9 @@ Bootloader:
 - ~~Clover 4979~~ Updated on Commit 124a8b5
 - Clover 5018
 
+Due to testing purposes i'm using debug versión of VoodooPs2Controller
+
+
 SMBIOS: MacBook Pro 11,1
 
 ACPI: Generated and patched DSDT+SSDT
