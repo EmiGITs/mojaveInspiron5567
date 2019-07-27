@@ -32,7 +32,7 @@ Known bugs
 - After Sleep already connected headphones needs to be unplugged and plugged again (Does not always happen)
 - After Sleep microphone will stop working
 - Function keys not working properly, some function keys like f5 won't do anything, used Karabiner to re-map but can't get to work some keys
-- Bootcamp or Unetbootin can't recognize any Usb
+- ~~Bootcamp or Unetbootin can't recognize any Usb.~~ balenaEtcher seems to work
 
 
 MacOs version installed: Installed via Usb using 10.14.4 vanilla
