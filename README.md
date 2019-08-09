@@ -27,7 +27,7 @@ What is not working
 - Bluetooth (Haven't tried it yet but doubt it work)
 - Card Reader (Same as bluetooth, never tried it but probably doesn't work)
 
-Known bugs
+Known bugs/glitches
 
 - After Sleep already connected headphones needs to be unplugged and plugged again (Does not always happen)
 - After Sleep microphone will stop working
