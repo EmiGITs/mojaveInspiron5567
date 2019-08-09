@@ -31,6 +31,7 @@ Known bugs
 
 - After Sleep already connected headphones needs to be unplugged and plugged again (Does not always happen)
 - After Sleep microphone will stop working
+- After Sleep audio will be distorted unless a restart is made (IMPORTANT)
 - Function keys not working properly, some function keys like f5 won't do anything, used Karabiner to re-map but can't get to work some keys
 - ~~Bootcamp or Unetbootin can't recognize any Usb.~~ balenaEtcher seems to work
 
@@ -54,7 +55,7 @@ Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist
 
 To do:
 
-- Fix Audio-Microphone bugs
+- Fix Audio-Microphone glitch
 - Fix inversed function keys and get all F1-F12 keys to work (Probably related to VoodooPs2Controller)
 - Fix Unetbootin-Bootcamp usb recognition
 - Delete unnecessary configurations on config.plist
