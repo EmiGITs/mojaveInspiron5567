@@ -69,7 +69,7 @@ Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist
 
 ## Credits
 
-Thanks to the clover team and people at tonymacx86
+Thanks to the Clover team and people at tonymacx86
 
 [Clover](https://github.com/CloverHackyColor/CloverBootloader)
 
