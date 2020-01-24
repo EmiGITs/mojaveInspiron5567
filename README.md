@@ -6,7 +6,7 @@
 
 
 
-##Currently Working:
+## Currently Working:
 
 - Trackpad with gestures (Some not working, using Three Finger gestures)
 - Keyboard Backlight
@@ -25,14 +25,14 @@
 - AppStore
 
 
-##Currently not working
+## Currently not working
 
 - Dedicated GPU
 - Integrated Wireless Card (And never will, needs to be replaced)
 - Bluetooth (Haven't tried it yet but doubt it work)
 - Card Reader (Same as bluetooth, never tried it but probably doesn't work)
 
-##Known bugs/glitches
+## Known bugs/glitches
 
 - After Sleep already connected headphones needs to be unplugged and plugged again (Does not always happen)
 - After Sleep microphone will stop working
@@ -45,7 +45,7 @@ MacOs version installed: Installed via Usb using 10.14.4 vanilla, updated to 10.
 
 I don't suggest using neither Clover folder or Kexts directly, use them as a reference and set your configuration up following existent guides. In any case if you want to boot from usb and install then you need to move Library Extension kexts to your USB/Clover/Kexts/Other.
 
-Bootloader: 
+# Bootloader: 
 - ~~Clover 4979~~ Updated on Commit 124a8b5
 - Clover 5018
 
@@ -58,7 +58,7 @@ ACPI: Generated and patched DSDT+SSDT
 
 Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist)
 
-To do:
+## To do:
 
 - Fix Audio-Microphone glitch
 - Fix inversed function keys and get all F1-F12 keys to work (Probably related to VoodooPs2Controller)
