@@ -58,6 +58,7 @@ ACPI: Generated and patched DSDT+SSDT
 
 Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist)
 
+You can contact me at emilianodri99@gmail.com
 
 ## To do:
 
