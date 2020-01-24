@@ -40,23 +40,24 @@
 - Function keys not working properly, some function keys like f5 won't do anything, used Karabiner to re-map but can't get to work some keys
 - ~~Bootcamp or Unetbootin can't recognize any Usb.~~ balenaEtcher seems to work
 
+## Additional Information
 
 MacOs version installed: Installed via Usb using 10.14.4 vanilla, updated to 10.14.6 after a few weeks
 
 I don't suggest using neither Clover folder or Kexts directly, use them as a reference and set your configuration up following existent guides. In any case if you want to boot from usb and install then you need to move Library Extension kexts to your USB/Clover/Kexts/Other.
 
-# Bootloader: 
+Bootloader: 
 - ~~Clover 4979~~ Updated on Commit 124a8b5
 - Clover 5018
 
 Due to testing purposes i'm using debug versión of VoodooPs2Controller
-
 
 SMBIOS: MacBook Pro 11,1
 
 ACPI: Generated and patched DSDT+SSDT
 
 Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist)
+
 
 ## To do:
 
