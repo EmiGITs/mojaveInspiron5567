@@ -1,5 +1,5 @@
 # mojaveInspiron5567
-**MacOs 10.14.6 Mojave-Dell Inspiron 15-5000 5567-1753 Config
+**MacOs 10.14.6 Mojave-Dell Inspiron 15-5000 5567-1753 Config**
 
 This repo is no longer maintained, it can be used as an start for a better MacOs 10.14.6 installation. Keep in mind that Clover should be updated and bugs listed bellow will be present (And probably some more i haven't noticed). Good Luck.
 
