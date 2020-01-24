@@ -6,7 +6,7 @@
 
 
 
-What is Working:
+##Currently Working:
 
 - Trackpad with gestures (Some not working, using Three Finger gestures)
 - Keyboard Backlight
@@ -25,14 +25,14 @@ What is Working:
 - AppStore
 
 
-What is not working
+##Currently not working
 
 - Dedicated GPU
 - Integrated Wireless Card (And never will, needs to be replaced)
 - Bluetooth (Haven't tried it yet but doubt it work)
 - Card Reader (Same as bluetooth, never tried it but probably doesn't work)
 
-Known bugs/glitches
+##Known bugs/glitches
 
 - After Sleep already connected headphones needs to be unplugged and plugged again (Does not always happen)
 - After Sleep microphone will stop working
