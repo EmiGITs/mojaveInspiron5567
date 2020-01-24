@@ -66,3 +66,10 @@ Audio Layout-ID: ALC256 with Layout-ID 13 (As a custom propierty on config.plist
 - Delete unnecessary configurations on config.plist
 - ~~Update Clover~~ Done in Commit 124a8b5 to Clover 5018
 - ~~Update 10.14.4 to 10.14.6~~ Done in Commit 124a8b5
+
+## Credits
+
+Thanks to the clover team and people at tonymacx86
+
+[Clover]https://github.com/CloverHackyColor/CloverBootloader
+[tonymacx86]https://www.tonymacx86.com/
